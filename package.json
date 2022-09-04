@@ -18,7 +18,8 @@
   "author": "Ederson Lucas",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "puppeteer": "^17.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
